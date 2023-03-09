@@ -1,6 +1,4 @@
-/* Student Name: Nour Fayadh
- * Student ID: 251205677
- * This class is designed to store edge info, and return them*/
+/* This class is designed to store edge info, and return them*/
 
 public class Edge {
 	
